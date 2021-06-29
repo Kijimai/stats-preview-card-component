@@ -1,5 +1,5 @@
 
-![](/images/Screenshot-lg.jpg)
+![](./images/Screenshot-lg.png)
 
 ### Links
 
