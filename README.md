@@ -3,8 +3,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kijimai/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://kijimai.github.io/stats-preview-card-component/)
+- Solution URL: [Solution URL](https://github.com/Kijimai/stats-preview-card-component)
+- Live Site URL: [Live site](https://kijimai.github.io/stats-preview-card-component/)
 
 ### Built with
 
