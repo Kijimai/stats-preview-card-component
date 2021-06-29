@@ -20,7 +20,7 @@ Would love to get more used to working with css grid, it is such a versatile too
 
 ### Useful resources
 
-- [Resource 1](https://developer.mozilla.org/en-US/) - Tried and trusted source for looking up how to handle css properties.
+- [Mozilla MDN](https://developer.mozilla.org/en-US/) - Tried and trusted source for looking up how to handle css properties.
 
 ## Author
 
